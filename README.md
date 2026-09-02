@@ -9,5 +9,8 @@ repo init -u https://github.com/diathequeen/oneplus_camry_kernel_manifest.git -m
 repo sync
 ```
 
+# **Full .repo size is estimated to be ~66GB.**
+# **Full kernel_platform size is estimated to be ~10GB.**
+
 # NOTE: this is the latest source from CPH2619_16.0.5.1000(EX01) *6.1.141*
 ## Do not use it on older OOS versions.
